@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Trigger1
+  - Up
+  - Trap
+  - Trigger2
+  - Jump_Pad
+  - Key
+  - Trigger3
   layers:
   - Default
   - TransparentFX

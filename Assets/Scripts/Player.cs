@@ -68,7 +68,7 @@ public class Player : MonoBehaviour
         {
             Manager.GameOver();
         }
-        if (collision.gameObject.name == "Clear_Point")
+        if (collision.gameObject.name == "Clear_Point" && key == 1)
         {
             Manager.gameClear();
         }
